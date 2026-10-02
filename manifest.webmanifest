@@ -1,0 +1,9 @@
+{
+  "name": "Ordo liturgique — Fidélité Catholique",
+  "short_name": "Ordo Fidélité",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#075b84"
+}
