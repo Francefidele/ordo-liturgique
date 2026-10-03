@@ -1,0 +1,1 @@
+Version 2026 : suppression des textes de messe. Deux onglets : Commentaires liturgiques (Dom Guéranger / Dom Schuster) et Noticia. Déposer index.html, manifest.webmanifest et sw.js à la racine du dépôt GitHub Pages.
